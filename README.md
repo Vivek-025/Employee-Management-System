@@ -68,7 +68,6 @@ CREATE TABLE emp (
 ## Concepts Used
 
 - Database connection and cursor
-- Parameterized queries (`%s`) to prevent SQL injection
 - `commit` and `rollback`
 - `try / except` error handling
 - Aggregate functions and `GROUP BY`
